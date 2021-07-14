@@ -22,104 +22,104 @@ l'ensemble des element produit dans cette section est le fruit de recherche pers
 
 >**Tri**
 
-tri fusion algo [def]()
-bucket sort algo [def]()
-tri à bulles algo [def]()
+tri fusion algo [def]()<br>
+bucket sort algo [def]()<br>
+tri à bulles algo [def]()<br>
 
 >**Complexité**
 
-Complexité de Lempel-Ziv algo [def]()
+Complexité de Lempel-Ziv algo [def]()<br>
 
 >**Distance**
 
-Python implementation of Kullback-Leibler divergences and kl-UCB indexes algo [def]()
+Python implementation of Kullback-Leibler divergences and kl-UCB indexes algo [def]()<br>
 
 >**Diviser pour reigner**
 
-dichotomie algo [def]()
-branch and bound algo [def]()
-The Ultimate Planar Convex Hull Algorithm? algo (relectures Kirkpatrick-Seidel’s Prune-and-Search Convex Hull Algorithm, An Algorithm for Finding Convex Hulls of Planar Point Sets), détermine l’enveloppe convexe d’un ensemble de points avec un coût de O(n \ln H) où H est le nombre de segments de l’enveloppe [source]()
+dichotomie algo [def]()<br>
+branch and bound algo [def]()<br>
+The Ultimate Planar Convex Hull Algorithm? algo (relectures Kirkpatrick-Seidel’s Prune-and-Search Convex Hull Algorithm, An Algorithm for Finding Convex Hulls of Planar Point Sets), détermine l’enveloppe convexe d’un ensemble de points avec un coût de O(n \ln H) où H est le nombre de segments de l’enveloppe [source]()<br>
 
 >**Programmation dynamique**
 
-distance d’édition algo [def]()
-plus court chemin dans un graphe algo [def]()
-problème d’ordonnancement algo [def]()
+distance d’édition algo [def]()<br>
+plus court chemin dans un graphe algo [def]()<br>
+problème d’ordonnancement algo [def]()<br>
 
 >**Problème non NP-complet**
 
-Problème du voyageur de commerce algo (ou Graphe Hamiltonien), lire Solution of a Large-Scale Traveling-Salesman Problem. [souce]()
-Problème de tournées de véhicules algo, extension du problème du voyageur de commerce [souce]()
-problème d’affectation, méthode hongroise algo [souce]()
-arbre de poids miminum (Kruskal) algo [def]()
-arbre de poids miminum (Borůvka) algo [def]()
-problème du sac-à-dos algo [def]()
+Problème du voyageur de commerce algo (ou Graphe Hamiltonien), lire Solution of a Large-Scale Traveling-Salesman Problem. [souce]()<br>
+Problème de tournées de véhicules algo, extension du problème du voyageur de commerce [souce]()<br>
+problème d’affectation, méthode hongroise algo [souce]()<br>
+arbre de poids miminum (Kruskal) algo [def]()<br>
+arbre de poids miminum (Borůvka) algo [def]()<br>
+problème du sac-à-dos algo [def]()<br>
 
 >**Structure de données**
 
-liste chaînée [déf]()
-table de hachage [déf]()
-table de hashage distribuée [source]()
-suffix tree [déf]()
-trie [déf]()
-b-tree [déf]()
-x-fast-trie [déf]()
-tas ou heap , Fibonacci Heap [déf]()
-Judy Arrays, site, en python, en C, cette structure implémente un mapping int/int plus efficace que l’implémentation traditionnelle avec une table de hashage, la structure tilise les propriétés des caches dans les processeurs [déf]()
+liste chaînée [déf]()<br>
+table de hachage [déf]()<br>
+table de hashage distribuée [source]()<br>
+suffix tree [déf]()<br>
+trie [déf]()<br>
+b-tree [déf]()<br>
+x-fast-trie [déf]()<br>
+tas ou heap , Fibonacci Heap [déf]()<br>
+Judy Arrays, site, en python, en C, cette structure implémente un mapping int/int plus efficace que l’implémentation traditionnelle avec une table de hashage, la structure tilise les propriétés des caches dans les processeurs [déf]()<br>
 
 >**Graphes**
 
-composantes connexes ou parcours de graphe en profondeur, parcours de graphe en largeur [déf/algo]()
-graphe orienté, graphe acyclique [déf]()
-degré [déf]()
-FLoyd-Flukerson algo [def]()
-minimum cut algo [def]()
-maximum cut algo [def]()
-graphe bi-parti [déf]
-PageRank algo [def]()
-Appariement, Edmonds Blossum, Hopcroft–Karp, Blossom 5, [déf/algo]() (ou couplage)
-Algorithme de Gale-Shapley, algo, problème des mariages stables [def]()
-distance de Robinson–Foulds, algo, distance entre deux arbres [def]()
-robustesse d’un réseau Quantifying the robustness of metro networks [def]()
-détection de motif fréquents fp-growth, voir aussi fp-growth 1/3, fp-growth 2/3, fp-growth 3/3 [def]()
+composantes connexes ou parcours de graphe en profondeur, parcours de graphe en largeur [déf/algo]()<br>
+graphe orienté, graphe acyclique [déf]()<br>
+degré [déf]()<br>
+FLoyd-Flukerson algo [def]()<br>
+minimum cut algo [def]()<br>
+maximum cut algo [def]()<br>
+graphe bi-parti [déf]()<br>
+PageRank algo [def]()<br>
+Appariement, Edmonds Blossum, Hopcroft–Karp, Blossom 5, [déf/algo]() (ou couplage)<br>
+Algorithme de Gale-Shapley, algo, problème des mariages stables [def]()<br>
+distance de Robinson–Foulds, algo, distance entre deux arbres [def]()<br>
+robustesse d’un réseau Quantifying the robustness of metro networks [def]()<br>
+détection de motif fréquents fp-growth, voir aussi fp-growth 1/3, fp-growth 2/3, fp-growth 3/3 [def]()<br>
 
 >**Texte**
 
-Algorithme de Knuth-Morris-Pratt algo [def]()
-Algorithme de Rabin-Karp algo [def]()
-distance de Jaccard algo [def]()
-n-grammes [déf]()
-Algorithme d’Aho-Corasick algo, voir aussi Commentz-Walter [def]()
-Transformée de Burrows-Wheeler algo [def]()
-algorithme Apriori : apprentissage de règles d’associations algo [def]()
-Boyer–Moore string-search algorithm [def]()
+Algorithme de Knuth-Morris-Pratt algo [def]()<br>
+Algorithme de Rabin-Karp algo [def]()<br>
+distance de Jaccard algo [def]()<br>
+n-grammes [déf]()<br>
+Algorithme d’Aho-Corasick algo, voir aussi Commentz-Walter [def]()<br>
+Transformée de Burrows-Wheeler algo [def]()<br>
+algorithme Apriori : apprentissage de règles d’associations algo [def]()<br>
+Boyer–Moore string-search algorithm [def]()<br>
 
 >**Optimisation**
 
-Simplexe algo [def]()
-Optimisation Combinatoire : Programmation Linéaire et Algorithmes thèse [def]()
-Méthode de Nelder-Mead algo, implémentation en Python [def]()
+Simplexe algo [def]()<br>
+Optimisation Combinatoire : Programmation Linéaire et Algorithmes thèse [def]()<br>
+Méthode de Nelder-Mead algo, implémentation en Python [def]()<br>
 
 >**Autre**
 
-codage Huffman (voir aussi LZ77, LZ78) algo [def]()
-bootstrap, intervalles de confiance algo [def]()
-filtre de Bloom algo [def]()
-Algorithme de Strassen algo [def]()
-Woodbury matrix identity algo [def]()
-Blockwise inversion algo [def]()
-Toom-Cook algo [def]()
-Canopy Clustering algo [def]()
-LRU - Last Recent Used algo [def]()
+codage Huffman (voir aussi LZ77, LZ78) algo [def]()<br>
+bootstrap, intervalles de confiance algo [def]()<br>
+filtre de Bloom algo [def]()<br>
+Algorithme de Strassen algo [def]()<br>
+Woodbury matrix identity algo [def]()<br>
+Blockwise inversion algo [def]()<br>
+Toom-Cook algo [def]()<br>
+Canopy Clustering algo [def]()<br>
+LRU - Last Recent Used algo [def]()<br>
 
 >**Programmation**
 
-itérateur (mot-clé yield) [déf]()
-mémoïzation déf (voir aussi Mémoïzation d’une fonction Python) [def]()
-programmation fonctionnelle [déf]()
-récursivité [déf]()
+itérateur (mot-clé yield) [déf]()<br>
+mémoïzation déf (voir aussi Mémoïzation d’une fonction Python) [def]()<br>
+programmation fonctionnelle [déf]()<br>
+récursivité [déf]()<br>
 
 >**Algorithmes probabilistes**
 
-Probabilistic Data Structures for Web Analytics and Data Mining [def]()
-Beaucoup de ces algorithmes sont implémentés dans ce projet : [TheAlgorithms]().
+Probabilistic Data Structures for Web Analytics and Data Mining [def]()<br>
+Beaucoup de ces algorithmes sont implémentés dans ce projet : [TheAlgorithms]().<br>
