@@ -123,3 +123,7 @@ récursivité [déf]()<br>
 
 Probabilistic Data Structures for Web Analytics and Data Mining [def]()<br>
 Beaucoup de ces algorithmes sont implémentés dans ce projet : [TheAlgorithms]().<br>
+
+
+> **Algorithme Apriori (Agrawal 93)**
+Apriori-Gen [def]() <br>
